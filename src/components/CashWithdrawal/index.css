@@ -1,0 +1,89 @@
+/* Write your CSS here */
+.bg1 {
+  background-color: #ffffff;
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bg2 {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  border-radius: 15px;
+  background-color: #150b3e;
+  width: 50%;
+}
+.profile {
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 75%;
+}
+.balanceBlock {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  padding: 20px;
+}
+.ss {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.user {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  font-family: 'roboto';
+  font-size: 30px;
+  margin-left: 0px;
+}
+.heading {
+  color: #c7d2fe;
+  font-family: 'roboto';
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.heading2 {
+  color: #585076;
+  font-family: 'roboto';
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.amount {
+  color: #c7d2fe;
+  font-family: 'roboto';
+  font-size: 45px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+.para2 {
+  color: #585076;
+  font-family: 'roboto';
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  padding: 20px;
+  flex-wrap: wrap;
+}
